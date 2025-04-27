@@ -93,7 +93,7 @@ La base de données se trouve dans le dossier `DataBase/btp.sql` et contient deu
 ## Captures d’écran
 
 ### 1. Page d'accueil - Liste des services
-![Page d'accueil](captures/C1.png)
+![Page d'accueil](captures/C1.PNG)
 ![Page d'accueil](captures/C2.png)
 
 ### 2. Page de connexion Admin
