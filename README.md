@@ -94,19 +94,19 @@ La base de données se trouve dans le dossier `DataBase/btp.sql` et contient deu
 
 ### 1. Page d'accueil - Liste des services
 ![Page d'accueil](captures/C1.PNG)
-![Page d'accueil](captures/C2.png)
+![Page d'accueil](captures/C2.PNG)
 
 ### 2. Page de connexion Admin
-![Connexion Admin](captures/C3.png)
+![Connexion Admin](captures/C3.PNG)
 
 ### 3. Interface d'administration 
-![Admin - Liste des services](captures/C4.png)
+![Admin - Liste des services](captures/C4.PNG)
 
 ### 3. Interface d'administration - Liste des services
-![Admin - Liste des services](captures/C5.png)
+![Admin - Liste des services](captures/C5.PNG)
 
 ### 4. Formulaire - Modifier un service
-![Modifier un service](captures/C6.png)
+![Modifier un service](captures/C6.PNG)
 
 ---
 
